@@ -1,0 +1,64 @@
+img
+{
+    height: 300px;
+    position: absolute;
+    right:45px;
+    width: auto;
+    opacity: 0.3;
+}
+.ta
+{
+    text-align: center;
+}
+.fweight
+{
+    font-weight: bold;
+}
+.fsize
+{
+    font-size: 35px;
+}
+.up
+{
+    text-transform: uppercase;
+}
+.cap
+{
+    text-transform: capitalize;
+}
+.dotted
+{
+    border: dotted;
+}
+.dashed
+{
+    border: dashed;
+}
+.solid
+{
+    border:solid;
+}
+.double
+{
+    border: double;
+}
+.groove
+{
+    border: groove;
+}
+.ridge
+{
+    border:ridge;
+}
+.inset
+{
+    border:inset;
+}
+.outset
+{
+    border:outset;
+}
+table,th,td
+{
+    border: 1px solid black;
+}
